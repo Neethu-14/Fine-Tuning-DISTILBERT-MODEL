@@ -29,8 +29,3 @@ The performance of both experiments was evaluated using accuracy, precision, rec
 - Confusion Matrices
 - Performance Metrics
 - Experiment Comparison
-
-## Author
-
-Nethravathi D  
-NLP Internship Project
